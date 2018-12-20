@@ -1,0 +1,17 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 900px;
+  padding: 0px 5px;
+  background-image: url(../image/screen.png);
+  background-size: cover;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+

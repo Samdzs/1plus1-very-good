@@ -1,0 +1,104 @@
+.container-mobile {
+  width: 414px;
+  background-color: #FEE155;
+  text-align: center;
+  margin: auto;
+  height: 712px;
+  padding: 0px 5px;
+  position: relative;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1	{
+	color: purple;
+}
+
+h2 {
+	color: purple;
+}
+
+p {
+	color: white;
+}
+
+.rond{
+	width: 165px; 
+	height: 165px;
+	background-image: url("../image/orange.png");
+	border-radius: 100%;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+  	flex-direction: column;
+  	top: 100px;
+    right: 239px;
+}
+.rond2{
+	width: 165px; 
+	height: 165px;
+	background-image: url("../image/glacon.jpeg");
+/*	background-color: purple;
+*/	border-radius: 100%;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+  	flex-direction: column;
+  	top:200px;
+  	right: 34px;
+    top: 136px;
+}
+
+.rond3 {
+	width: 165px; 
+	height: 165px;
+	background-image: url("../image/bulle.png");
+/*	background-color: purple;
+*/	border-radius: 100%;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+  	flex-direction: column;
+  	top: 306px;
+    right: 126px;
+  }
+.rond4 {
+	width: 165px; 
+	height: 165px;
+	background-image: url("../image/toast.png");
+/*	background-color: purple;
+*/	border-radius: 100%;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+  	flex-direction: column;
+  	top: 447px;
+    right: 252px;
+}
+.rond5 {
+	width: 165px; 
+	height: 165px;
+	background-image: url("../image/nuage.png");
+/*	background-color: purple;
+*/	border-radius: 100%;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+  	flex-direction: column;
+  	top: 484px;
+    right: 5px;
+
+}
+
+.nolink {
+	text-decoration: none;
+}
